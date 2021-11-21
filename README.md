@@ -1,7 +1,13 @@
 # H4CK3R
+
+------------------------------------------------------------------------
+
 # SCREENSHOTS
+
+<br>
+<p align="center">
+<img width="23.4%" src="IMG_20211121_113448.jpg"/> 
 <img width="28.8%" src="IMG_20211121_113848.jpg"/>
-<img width="23.4%" src="IMG_20211121_113448.jpg"/>
 </p>
 
 # BASIC COMMANDS
